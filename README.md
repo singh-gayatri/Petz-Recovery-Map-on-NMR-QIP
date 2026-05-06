@@ -1,5 +1,5 @@
 # Realizing the Petz Recovery Map on an NMR Quantum Processor
-This repository contains the experimental tomography data for and Quantum state tomography MATLAB code for the implementation of Petz Recovery Maps on a three-qubit Nuclear Magnetic Resonance (NMR) quantum information processor. This work has been accepted for publication in Physical Review A: "https://journals.aps.org/pra/accepted/10.1103/xd6k-swv7"
+This repository contains the experimental tomography data for and Quantum state tomography MATLAB code for the implementation of Petz Recovery Maps on a three-qubit Nuclear Magnetic Resonance (NMR) quantum information processor. The full theoretical framework and experimental results are available in "[https://journals.aps.org/pra/accepted/10.1103/xd6k-swv7](https://journals.aps.org/pra/abstract/10.1103/xd6k-swv7)"
 
 
 ## Research Overview: 
